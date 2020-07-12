@@ -1,0 +1,6 @@
+* to host as gh pages site:
+Settings tab ->
+GitHub pages section ->
+Select master branch source and save
+
+page will now be hosted at username.github.io/reponame
